@@ -25,4 +25,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushkatagade&" alt="anushkatagade" /></p>
 
 
-https://holopin.me/anushkatagade)](https://holopin.io/@anushkatagade
+[![An image of @anushkatagade's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anushkatagade)](https://holopin.io/@anushkatagade)
