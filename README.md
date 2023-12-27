@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushkaa</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> Passionate in coding from India</h3>
 <img align="right" alt="coding" width="400" src="https://videoplasty.com/stock-animation/chill-coding-programming-lofi-animation-11018">
 
 
