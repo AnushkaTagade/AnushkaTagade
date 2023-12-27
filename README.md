@@ -25,5 +25,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushkatagade&" alt="anushkatagade" /></p>
 
 
-
-(https://holopin.me/anushkatagade)](https://holopin.io/@anushkatagade)
+https://holopin.me/anushkatagade)](https://holopin.io/@anushkatagade
